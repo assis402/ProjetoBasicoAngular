@@ -3,5 +3,6 @@ export interface Usuario {
     nome: string;
     CPF: string;
     email: string;
-    senhaConfirmaca: string;
+    senha: string;
+    senhaConfirmacao: string;
 }
